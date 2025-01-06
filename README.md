@@ -1,7 +1,15 @@
-# Hotel Booking Analysis Project 🏨📊  
+# Hospitality Data Analysis Project using Python 🏨📊
 
-This repository contains a **Jupyter Notebook** that analyzes hotel booking data to uncover trends, patterns, and actionable insights. The analysis aims to assist stakeholders in optimizing pricing strategies, enhancing customer satisfaction, and improving revenue streams.  
+AtliQ Grands struggled to achieve revenue goals amidst tough competition in the luxury hotel industry. As a growing Data Analyst, I took on the challenge of reshaping the success story of this 5-star hotel chain in India.
 
+## About AtliQ Grands
+
+- **Five-Star Luxury:** AtliQ Grands is a chain of five-star hotels with locations in four busy cities.  
+- **Strategic Presence:** With seven unique properties across these cities, AtliQ Grands serves a variety of guests.  
+- **Personalized Guest Experience:** Guests can choose from four types of rooms—Elite, Premium, Presidential, and Standard—to suit their preferences.  
+- **Easy Booking Options:** Guests can book their stay through six popular online platforms, ensuring convenience and flexibility.  
+
+This project uses data analysis to uncover valuable insights and create strategies that increase revenue, improve operations, and boost guest satisfaction.
 ## Table of Contents  
 **1. Overview**
 
