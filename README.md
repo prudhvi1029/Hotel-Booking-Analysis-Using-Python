@@ -145,8 +145,8 @@ The project uses the following datasets, provided as CSV files:
 ---  
 
 ### 10. Data Quality Observations  
-    - **Outliers and Anomalies:** Preprocessing steps, such as removing bookings with zero guests or revenue outliers, improved data reliability.  
-  - **Missing Data Handling:** Median imputation for missing values (e.g., room capacities) ensured robust analysis.  
+ - **Outliers and Anomalies:** Preprocessing steps, such as removing bookings with zero guests or revenue outliers, improved data reliability.  
+ - **Missing Data Handling:** Median imputation for missing values (e.g., room capacities) ensured robust analysis.  
 ---  
 ## Recommendations Based on Insights 🌟📋  
 
